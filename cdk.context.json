@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "AWS_ACCOUNT_ID": "160885246672",
+    "AWS_PROFILE_NAME": "hirakroya50",
+    "AWS_PROFILE_REGION": "ap-south-1"
+  },
+  "prod": {
+    "AWS_ACCOUNT_ID": "160885246672",
+    "AWS_PROFILE_NAME": "hirakroya50",
+    "AWS_PROFILE_REGION": "ap-south-1"
+  }
+}
